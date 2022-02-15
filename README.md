@@ -28,8 +28,6 @@ meritorious service as an intelligence analyst. Sergeant Godar's professionalism
 
 - **Eagle Scout**
 
-- **Dean's List**
-
 ---
 
 ### Publications
@@ -41,6 +39,17 @@ meritorious service as an intelligence analyst. Sergeant Godar's professionalism
 - [Imaging of muscle blood volume changes during exercise with Vascular Space Occupancy (VASO) MRI](https://faseb.onlinelibrary.wiley.com/doi/full/10.1096/fasebj.26.1_supplement.lb778) *The FASEB Journal* 
 
 ![VASO](vaso2.png)
+
+---
+
+
+### Memberships
+
+- International Society for Magnetic Resonance in Medicine
+- Federation of American Societies for Experimental Biology
+- Project Management Institute
+- American Legion
+- Veterans of Foreign Wars
 
 ---
 
