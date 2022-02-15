@@ -21,8 +21,8 @@ Matplotlib - Seaborn - Plotly - Machine Learning - Natural Language Processing -
 - **Army Commendation Medal** Data Engineering
 "SGT Godar developed a new automated single source database as well as the tactics, techniques, and procedures for operation which free dip time normally spent manually imputing data allowing more time for data analysis. Soldier's input, hard work, and expertise had a major impact on the section's ability to achieve its goals."
 
-- **Army Achievement Medal**(First Award) for
-creating and publishing a reference book used throughout the division “[Godar’s] professional and technical knowledge demonstrates his leadership traits and skills well above his peers.”
+- **Army Achievement Medal** (Second Award) for
+meritorious service as an intelligence analyst. Sergeant Godar's professionalism and technical competence significantly contributed to the successful and safe execution of missions throughtout the Southern Command.”
 
 - **American Red Cross Certificate of Merit** the highest award issued by the Red Cross for saving life.
 
