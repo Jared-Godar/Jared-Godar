@@ -47,6 +47,7 @@ meritorious service as an intelligence analyst. Sergeant Godar's professionalism
 
 - International Society for Magnetic Resonance in Medicine
 - Federation of American Societies for Experimental Biology
+- American Medical Writers Association
 - Project Management Institute
 - American Legion
 - Veterans of Foreign Wars
