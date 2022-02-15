@@ -18,11 +18,11 @@ Matplotlib - Seaborn - Plotly - Machine Learning - Natural Language Processing -
 #### Desgign
 ### Publications
 
-- [Structure and Mechanism of Protein Stability Sensors: Chaperone Activity of Small Heat Shock Proteins](https://pubs.acs.org/doi/abs/10.1021/bi900212j) (Cited by 273 as of Feb 2020)
+- [Structure and Mechanism of Protein Stability Sensors: Chaperone Activity of Small Heat Shock Proteins](https://pubs.acs.org/doi/abs/10.1021/bi900212j) *Biochemistry* (Cited by 273 as of Feb 2020)
 
 ![shsp](shsp.gif)
 
-- [Imaging of muscle blood volume changes during exercise with Vascular Space Occupancy (VASO) MRI](https://faseb.onlinelibrary.wiley.com/doi/full/10.1096/fasebj.26.1_supplement.lb778)
+- [Imaging of muscle blood volume changes during exercise with Vascular Space Occupancy (VASO) MRI] *The FASEB Journal* (https://faseb.onlinelibrary.wiley.com/doi/full/10.1096/fasebj.26.1_supplement.lb778)
 
 ![VASO](vaso2.png)
 ### Links
