@@ -18,7 +18,7 @@ Matplotlib - Seaborn - Plotly - Machine Learning - Natural Language Processing -
 #### Desgign
 ### Publications
 
-- [Structure and Mechanism of Protein Stability Sensors: Chaperone Activity of Small Heat Shock Proteins](https://pubs.acs.org/doi/abs/10.1021/bi900212j)
+- [Structure and Mechanism of Protein Stability Sensors: Chaperone Activity of Small Heat Shock Proteins](https://pubs.acs.org/doi/abs/10.1021/bi900212j) (Cited by 273 as of Feb 2020)
 
 ![shsp](shsp.gif)
 
