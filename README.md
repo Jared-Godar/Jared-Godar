@@ -38,7 +38,7 @@ creating and publishing a reference book used throughout the division â€œ[Godarâ
 
 ![shsp](shsp.gif)
 
-- [Imaging of muscle blood volume changes during exercise with Vascular Space Occupancy (VASO) MRI] *The FASEB Journal* (https://faseb.onlinelibrary.wiley.com/doi/full/10.1096/fasebj.26.1_supplement.lb778)
+- [Imaging of muscle blood volume changes during exercise with Vascular Space Occupancy (VASO) MRI](https://faseb.onlinelibrary.wiley.com/doi/full/10.1096/fasebj.26.1_supplement.lb778) *The FASEB Journal* 
 
 ![VASO](vaso2.png)
 
