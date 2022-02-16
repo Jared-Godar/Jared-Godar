@@ -37,7 +37,7 @@ Matplotlib - Seaborn - Plotly - Machine Learning - Natural Language Processing -
 ### Achievements
 
 - **Army Commendation Medal** Data Engineering
-"SGT Godar developed a new automated single source database as well as the tactics, techniques, and procedures for operation which free dip time normally spent manually imputing data allowing more time for data analysis. Soldier's input, hard work, and expertise had a major impact on the section's ability to achieve its goals."
+"Sergeant Godar developed a new automated single source database as well as the tactics, techniques, and procedures for operation which free dip time normally spent manually imputing data allowing more time for data analysis. Soldier's input, hard work, and expertise had a major impact on the section's ability to achieve its goals."
 
 - **Army Achievement Medal** (Second Award) for
 meritorious service as an intelligence analyst. Sergeant Godar's professionalism and technical competence significantly contributed to the successful and safe execution of missions throughtout the Southern Command.”
