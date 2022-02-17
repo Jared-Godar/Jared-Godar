@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ...
+  - A Kaggle NLP project
+  - Improving an anomaly detection algorithm for ECGs usint LSTMs
+
+- 🌱 I’m currently learning ...
+  - PySpark
+  - Keras
+  - TensorFlow
+  - PyTorch
 ### About Me
 
 I am a data scientist, technical communication specialist, Army veteran, and music lover. I'm committed to helping you tell your story with compelling supporting data. I help businesses sift through the noise to discover what metrics really matter and how to improve them maximizing efficiency and minimizing discomfort.
@@ -16,15 +25,18 @@ I have edited and provided figures for articles published in *The Biophysical Jo
 
 I expanded my data analysis toolkit to approach problems in a more programatic manner with python and other data science libraries with artificial intelligence and machine learning techniques. Am looking forward to continuing my longstanding search for truth within data using these tools.
 
-- 🔭 I’m currently working on ...
-  - A NLP project
-  - Improving an anomaly detection algorithm
 
-- 🌱 I’m currently learning ...
-  - PySpark
-  - Keras
-  - TensorFlow
+---
 
+## Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jared-Godar&theme=graywhite&show_icons=true" width=400/>
+</a>  
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jared-Godar" width=400/>
+</a>  
 ---
 
 ### Skills
