@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ...
   - A Kaggle NLP project
-  - Improving an anomaly detection algorithm for ECGs usint LSTMs
+  - Improving an anomaly detection algorithm for ECGs using LSTMs
 
 - 🌱 I’m currently learning ...
   - PySpark
