@@ -46,43 +46,6 @@ Matplotlib - Seaborn - Plotly - Machine Learning - Natural Language Processing -
 
 ---
 
-### Achievements
-
-- **Army Commendation Medal** Data Engineering
-"Sergeant Godar developed a new automated single source database as well as the tactics, techniques, and procedures for operation which free dip time normally spent manually imputing data allowing more time for data analysis. Soldier's input, hard work, and expertise had a major impact on the section's ability to achieve its goals."
-
-- **Army Achievement Medal** (Second Award) for
-meritorious service as an intelligence analyst. Sergeant Godar's professionalism and technical competence significantly contributed to the successful and safe execution of missions throughtout the Southern Command.”
-
-- **American Red Cross Certificate of Merit** the highest award issued by the Red Cross for saving life.
-
-- **Eagle Scout**
-
----
-
-### Publications
-
-- [Structure and Mechanism of Protein Stability Sensors: Chaperone Activity of Small Heat Shock Proteins](https://pubs.acs.org/doi/abs/10.1021/bi900212j) *Biochemistry* (Cited by 273 as of Feb 2020)
-
-![shsp](shsp.gif)
-
-- [Imaging of muscle blood volume changes during exercise with Vascular Space Occupancy (VASO) MRI](https://faseb.onlinelibrary.wiley.com/doi/full/10.1096/fasebj.26.1_supplement.lb778) *The FASEB Journal* 
-
-![VASO](vaso2.png)
-
----
-
-
-### Memberships
-
-- International Society for Magnetic Resonance in Medicine
-- Federation of American Societies for Experimental Biology
-- American Medical Writers Association
-- Project Management Institute
-- American Legion
-- Veterans of Foreign Wars
-
----
 
 ### Links
 
