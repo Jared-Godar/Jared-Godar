@@ -5,10 +5,14 @@
   - Improving an anomaly detection algorithm for ECGs using LSTMs
 
 - 🌱 I’m currently learning ...
+  - AWS Cloud
+  - Power BI
   - PySpark
   - Keras
   - TensorFlow
   - PyTorch
+
+
 ### About Me
 
 I am a data scientist, technical communication specialist, Army veteran, and music lover. I'm committed to helping you tell your story with compelling supporting data. I help businesses sift through the noise to discover what metrics really matter and how to improve them maximizing efficiency and minimizing discomfort.
