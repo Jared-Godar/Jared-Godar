@@ -6,6 +6,7 @@
 
 - 🌱 I’m currently learning ...
   - AWS Cloud
+  - Databricks
   - Power BI
   - PySpark
   - Keras
