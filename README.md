@@ -1,12 +1,14 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-  - A Kaggle NLP project
+  - Databricks Apache Spark Certification
   - Improving an anomaly detection algorithm for ECGs using LSTMs
 
 - 🌱 I’m currently learning ...
   - AWS Cloud
   - Databricks
+  - Azure
+  - Snowflake
   - Power BI
   - PySpark
   - Keras
