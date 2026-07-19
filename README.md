@@ -59,13 +59,21 @@ I am currently focused on opportunities involving internal enterprise technology
 
 ## Featured Work
 
-I am currently modernizing this profile to better reflect my recent work in cloud data engineering, automation, and enterprise technology. I will add selected projects and case studies as they are ready for public release.
+The repositories here are my personal engineering practice — the same habits I bring to client delivery (documented decisions, gated CI, operational discipline), applied to projects I can share publicly:
+
+- **[ecg_anomaly_detection](https://github.com/Jared-Godar/ecg_anomaly_detection)** — time-series anomaly detection on the PhysioNet MIT-BIH ECG dataset, built as a production-minded ML pipeline: locked environments, pre-commit gates, full-history secret scanning, and documented data provenance.
+- **[lifeos-aws-archive](https://github.com/Jared-Godar/lifeos-aws-archive)** — an AWS-native personal archival platform: infrastructure as code, guarded S3 data flows with integrity verification, and the sanitization/documentation practices that let internal work be shared safely.
+- **[macos-system-health](https://github.com/Jared-Godar/macos-system-health)** — macOS system-health monitoring tooling with tested redaction guarantees and operational runbooks.
+
+I'm incrementally adding public data-engineering showcases alongside the client work they mirror — orchestration, lakehouse, and warehouse patterns at demo scale.
 
 ---
 
 ## Professional Background
 
-My consulting experience includes delivering solutions across multiple industries and technology stacks. It reinforced the importance of:
+My enterprise data-platform experience comes from consulting delivery with CGI, building and modernizing data systems for state government and private-sector clients at enterprise scale. That is where the Databricks, Spark, Snowflake, and Airflow work above lives — in client production environments, not public repositories. The projects on this profile are personal engineering practice; the client work is the day job.
+
+Consulting delivery across those industries and stacks reinforced the importance of:
 
 - maintainability over novelty
 - documentation over tribal knowledge
