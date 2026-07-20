@@ -64,6 +64,7 @@ The repositories here are my personal engineering practice — the same habits I
 - **[ecg_anomaly_detection](https://github.com/Jared-Godar/ecg_anomaly_detection)** — time-series anomaly detection on the PhysioNet MIT-BIH ECG dataset, built as a production-minded ML pipeline: locked environments, pre-commit gates, full-history secret scanning, and documented data provenance.
 - **[lifeos-aws-archive](https://github.com/Jared-Godar/lifeos-aws-archive)** — an AWS-native personal archival platform: infrastructure as code, guarded S3 data flows with integrity verification, and the sanitization/documentation practices that let internal work be shared safely.
 - **[macos-system-health](https://github.com/Jared-Godar/macos-system-health)** — macOS system-health monitoring tooling with tested redaction guarantees and operational runbooks.
+- **[gh-repository-automized-modernization-audit](https://github.com/Jared-Godar/gh-repository-automized-modernization-audit)** — A case study in auditing and hardening a personal GitHub portfolio: 9-category risk taxonomy, per-repo triage, ~100 repos audited, 64 privatized, governance-as-code. Demonstrates human-AI collaboration under plan/execute separation with independent verification.
 
 I'm incrementally adding public data-engineering showcases alongside the client work they mirror — orchestration, lakehouse, and warehouse patterns at demo scale.
 
